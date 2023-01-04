@@ -217,22 +217,7 @@ namespace calcHokkaidoNaishinRank
         private int grade = FIRST;
 
 
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void EnableComboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
@@ -242,11 +227,6 @@ namespace calcHokkaidoNaishinRank
             grade = FIRST;
             groupBox2.Visible = false;
             groupBox3.Visible = false;
-        }
-
-        private void groupBox2_Enter(object sender, EventArgs e)
-        {
-
         }
 
         private void secondGrade_Click(object sender, EventArgs e)

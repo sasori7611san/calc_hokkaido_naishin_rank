@@ -232,7 +232,6 @@
             this.EnableComboBox1.Name = "EnableComboBox1";
             this.EnableComboBox1.Size = new System.Drawing.Size(40, 23);
             this.EnableComboBox1.TabIndex = 17;
-            this.EnableComboBox1.SelectedIndexChanged += new System.EventHandler(this.EnableComboBox1_SelectedIndexChanged);
             // 
             // label6
             // 
@@ -278,7 +277,6 @@
             this.label4.Size = new System.Drawing.Size(37, 15);
             this.label4.TabIndex = 8;
             this.label4.Text = "英語";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label5
             // 
@@ -306,7 +304,6 @@
             this.label2.Size = new System.Drawing.Size(37, 15);
             this.label2.TabIndex = 2;
             this.label2.Text = "数学";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
@@ -343,7 +340,6 @@
             this.groupBox2.TabIndex = 5;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "2年生";
-            this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
             // 
             // comboBox9
             // 
