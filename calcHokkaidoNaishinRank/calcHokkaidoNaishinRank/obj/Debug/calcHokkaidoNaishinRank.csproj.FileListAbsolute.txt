@@ -1,0 +1,11 @@
+C:\Users\lovea\Desktop\git\calc_hokkaido_naishin_rank\calcHokkaidoNaishinRank\calcHokkaidoNaishinRank\bin\Debug\calcHokkaidoNaishinRank.exe.config
+C:\Users\lovea\Desktop\git\calc_hokkaido_naishin_rank\calcHokkaidoNaishinRank\calcHokkaidoNaishinRank\bin\Debug\calcHokkaidoNaishinRank.exe
+C:\Users\lovea\Desktop\git\calc_hokkaido_naishin_rank\calcHokkaidoNaishinRank\calcHokkaidoNaishinRank\bin\Debug\calcHokkaidoNaishinRank.pdb
+C:\Users\lovea\Desktop\git\calc_hokkaido_naishin_rank\calcHokkaidoNaishinRank\calcHokkaidoNaishinRank\obj\Debug\calcHokkaidoNaishinRank.csproj.AssemblyReference.cache
+C:\Users\lovea\Desktop\git\calc_hokkaido_naishin_rank\calcHokkaidoNaishinRank\calcHokkaidoNaishinRank\obj\Debug\calcHokkaidoNaishinRank.csproj.SuggestedBindingRedirects.cache
+C:\Users\lovea\Desktop\git\calc_hokkaido_naishin_rank\calcHokkaidoNaishinRank\calcHokkaidoNaishinRank\obj\Debug\calcHokkaidoNaishinRank.Form1.resources
+C:\Users\lovea\Desktop\git\calc_hokkaido_naishin_rank\calcHokkaidoNaishinRank\calcHokkaidoNaishinRank\obj\Debug\calcHokkaidoNaishinRank.Properties.Resources.resources
+C:\Users\lovea\Desktop\git\calc_hokkaido_naishin_rank\calcHokkaidoNaishinRank\calcHokkaidoNaishinRank\obj\Debug\calcHokkaidoNaishinRank.csproj.GenerateResource.cache
+C:\Users\lovea\Desktop\git\calc_hokkaido_naishin_rank\calcHokkaidoNaishinRank\calcHokkaidoNaishinRank\obj\Debug\calcHokkaidoNaishinRank.csproj.CoreCompileInputs.cache
+C:\Users\lovea\Desktop\git\calc_hokkaido_naishin_rank\calcHokkaidoNaishinRank\calcHokkaidoNaishinRank\obj\Debug\calcHokkaidoNaishinRank.exe
+C:\Users\lovea\Desktop\git\calc_hokkaido_naishin_rank\calcHokkaidoNaishinRank\calcHokkaidoNaishinRank\obj\Debug\calcHokkaidoNaishinRank.pdb
